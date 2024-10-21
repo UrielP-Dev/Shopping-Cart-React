@@ -3,7 +3,7 @@
         "id": 1,
         "titulo": "HTML5, CSS3, JavaScript para Principiantes",
         "instructor": "Juan Pedro",
-        "imagen": "../public/curso1.jpg",
+        "imagen": "/curso1.jpg",
         "precio_original": 200,
         "precio_descuento": 15
     },
