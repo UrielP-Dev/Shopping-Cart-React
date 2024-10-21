@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "titulo": "HTML5, CSS3, JavaScript para Principiantes",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso1.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 2,
+        "titulo": "Curso de Comida Vegetariana",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso2.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 3,
+        "titulo": "Guitarra para Principiantes",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso3.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 4,
+        "titulo": "Huerto en tu casa",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso4.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 5,
+        "titulo": "Decoración con productos de tu hogar",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso5.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 6,
+        "titulo": "Diseño Web para Principiantes",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso1.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 7,
+        "titulo": "Comida Mexicana para principiantes",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso2.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 8,
+        "titulo": "Estudio Musical en tu casa",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso3.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 9,
+        "titulo": "Cosecha tus propias frutas y verduras",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso4.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 10,
+        "titulo": "Prepara galletas caseras",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso5.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 11,
+        "titulo": "JavaScript Moderno con ES6",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso1.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    },
+    {
+        "id": 12,
+        "titulo": "100 Recetas de Comida Natural",
+        "instructor": "Juan Pedro",
+        "imagen": "../public/curso2.jpg",
+        "precio_original": 200,
+        "precio_descuento": 15
+    }
+]

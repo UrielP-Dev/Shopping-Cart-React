@@ -1,0 +1,23 @@
+.app-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header, .footer {
+  width: 100%;
+  padding: 1rem;
+}
+
+.main-content {
+  flex-grow: 1;
+  width: 100%;
+  padding: 1rem;
+}
+
+/* Reset default body margin */
+body {
+  margin: 0;
+  padding: 0;
+}
