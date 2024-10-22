@@ -47,7 +47,6 @@ const removeCart = (id) => {
       <header className="header">
         <HeaderComp cart={cart} removeCart={removeCart} clearCart={clearCart} />
       </header>
-      <Couter/>
       <Container cursos={data} addToCart={addToCart} />
       <footer className="footer">
         <FotterComp />
