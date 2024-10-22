@@ -4,6 +4,7 @@ import HeaderComp from './Components/Navbar';
 import Container from './Components/Container';
 import './App.css';
 import data from './Data/cursos.json';
+import Couter from './Components/Couter';
 
 function App() {
   const [cart, setCart] = useState([]);
@@ -46,9 +47,8 @@ const removeCart = (id) => {
       <header className="header">
         <HeaderComp cart={cart} removeCart={removeCart} clearCart={clearCart} />
       </header>
-
+      <Couter/>
       <Container cursos={data} addToCart={addToCart} />
-
       <footer className="footer">
         <FotterComp />
       </footer>

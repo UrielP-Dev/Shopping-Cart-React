@@ -5,7 +5,7 @@ import '../Styles/skeleton.css'
 
 function Card({ curso, addToCart }) {
     const { id, titulo, instructor, imagen, precio_original, precio_descuento } = curso;
-    console.log(curso);
+    //console.log(curso);
     
     const handleAddToCart = () => {
         const item = {
